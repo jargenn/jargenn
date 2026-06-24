@@ -1,6 +1,6 @@
 Hi! I'm Lautaro Acosta Quintana.
 
-I’m a programmer interested in system design and every step in building software. I've worked mainly with Rust and Go, with experience in OCaml, Typescript and Python. I aim to build reliable software with an emphasis on rigor and correctness. I also write [technical articles](https://lautaroacosta.com/).
+I’m a programmer interested in system design and every step in building software. I've worked mainly with Rust and Go, with experience in OCaml, Typescript and Python. I aim to build reliable software with an emphasis on rigor and correctness. If I'm not writing software, I'm often reading about it and even writing [technical articles](https://lautaroacosta.com/).
 
 I'm currently pursuing an Information Systems Engineering degree at [UTN](https://www.frre.utn.edu.ar/).
 
