@@ -7,5 +7,5 @@ I'm currently pursuing an Information Systems Engineering degree at [UTN](https:
 **For recruiters**: I'm interested in backend, systems, and infrastructure roles. I focus on performance, reliability, and system design, and bring experience in technical writing and communicating complex engineering ideas to teams clearly.
 
 Current projects:
-   * [gulfi](https://github.com/jargenn/gulfi) — Search tool for JSON and CSV files supporting full-text search and raw vector search.
+   * [gulfi](https://github.com/jargenn/gulfi) — Search tool for .json and .csv files supporting full-text search and raw vector search.
    * [poster](https://github.com/jargenn/poster) — Social media posting tool using the Meta Graph API.
