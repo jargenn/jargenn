@@ -4,8 +4,10 @@ I’m a programmer interested in system design and every step in building softwa
 
 I'm currently pursuing an Information Systems Engineering degree at [UTN](https://www.frre.utn.edu.ar/).
 
-**For recruiters**: I'm interested in backend, systems, and infrastructure roles. I focus on performance, reliability, and system design, and bring experience in technical writing and communicating complex engineering ideas to teams clearly.
-
 Current projects:
    * [gulfi](https://github.com/jargenn/gulfi) — Search tool for .json and .csv files supporting full-text search and raw vector search.
    * [poster](https://github.com/jargenn/poster) — Social media posting tool using the Meta Graph API.
+
+**For recruiters**: I'm interested in backend, systems, and infrastructure roles. I focus on performance, reliability, and system design, and bring experience in technical writing and communicating complex engineering ideas to teams clearly. 
+
+You can find my résumé in [English](https://cdn.lautaroacosta.com/resume_us_2.pdf) or [Spanish](https://cdn.lautaroacosta.com/resume_es_2.pdf)
