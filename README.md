@@ -10,4 +10,4 @@ Current projects:
 
 **For recruiters**: I'm interested in backend, systems, and infrastructure roles. I focus on performance, reliability, and system design, and bring experience in technical writing and communicating complex engineering ideas to teams clearly. 
 
-You can find my résumé in [English](https://cdn.lautaroacosta.com/resume_us_2.pdf) or [Spanish](https://cdn.lautaroacosta.com/resume_es_2.pdf)
+You can find my résumé in [English](https://cdn.lautaroacosta.com/resume_us_3.pdf) or [Spanish](https://cdn.lautaroacosta.com/resume_es_3.pdf)
